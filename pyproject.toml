@@ -28,7 +28,7 @@ pre-commit = "^2.7"
 pytest = "^6.0"
 tox = "^3.18"
 responses = "^0.12"
-sphinx = "^3.1.2"
+sphinx = "^3.5.2"
 
 [build-system]
 requires = ["poetry>=1.0.2"]
